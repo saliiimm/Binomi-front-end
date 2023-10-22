@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #7645df36;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f3f6f9;
+}
+.MuiInputBase-root  input {
+    width: 200px,
+}
